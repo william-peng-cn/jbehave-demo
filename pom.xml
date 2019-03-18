@@ -11,6 +11,7 @@
 
     <modules>
         <module>jbehave-demo-basic</module>
+        <module>jbehave-demo-spring</module>
     </modules>
 
 

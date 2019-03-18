@@ -1,4 +1,4 @@
-package io.william.jbehave.demo;
+package io.william.jbehave.demo.basic;
 
 import org.jbehave.core.configuration.Configuration;
 import org.jbehave.core.configuration.MostUsefulConfiguration;
@@ -16,7 +16,7 @@ import java.util.List;
 import static org.jbehave.core.io.CodeLocations.codeLocationFromClass;
 
 
-public class JBehaveDemo extends JUnitStories {
+public class BasicJBehaveDemo extends JUnitStories {
 
 	@Override
 	public Configuration configuration() {
